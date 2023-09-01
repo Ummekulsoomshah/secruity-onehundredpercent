@@ -1,0 +1,63 @@
+.main{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+  background-color: #1F2937;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+  padding-left: 20px;
+ height: 600px;
+ font-family: 'Karla', sans-serif;
+ background-image: URL("LOCK.jpg");
+ background-size: cover;
+}
+#btn{
+    display: block;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    margin-top: 100px;
+    background-color: white;
+    color: #10B981;
+    border: none;
+    margin-bottom:20PX;
+    height: 50PX;
+
+
+}
+p{
+    color: white;
+    font-family: 'Karla', sans-serif;
+    font-weight: 10px;
+    font-size: 25px;
+    margin-top: 8px;
+}
+#head1{
+    font-weight: 200px;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+#head2{
+    font-weight: 200px;
+    font-size: 50px;
+    margin-top: 0px;
+    color: white;
+}
+#inp,#inp1{
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 10px;
+    margin-top: 5px;
+    width: 200px;
+    background-color:  #88b1a2;
+    color: #647186 ;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
